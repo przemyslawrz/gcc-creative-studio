@@ -1,4 +1,4 @@
-gcp_project_id = "test-brand-kreacja"
+gcp_project_id = "prj-ecom-n-creative-stud-9cce"
 gcp_region     = "us-central1"
 environment    = "development"
 
